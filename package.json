@@ -30,7 +30,9 @@
     "js-yaml": "^4.1.0",
     "pg": "^8.10.0",
     "sequelize": "^6.29.3",
-    "yamljs": "^0.3.0"
+    "yamljs": "^0.3.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.21.0",
@@ -46,9 +48,7 @@
     "fs": "^0.0.1-security",
     "jest": "^29.5.0",
     "nodemon": "^2.0.21",
-    "supertest": "^6.3.3",
-    "swagger-jsdoc": "^6.2.8",
-    "swagger-ui-express": "^4.6.2"
+    "supertest": "^6.3.3"
   },
   "directories": {
     "test": "tests"
